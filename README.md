@@ -1,3 +1,3 @@
 # Lucas-Kanade-Tracker
 I have made tracking system to track any feature in videos. I have done it using two methods: 1.Lucas Kanade Tracker using six parameter affine model and recursive Gauss-Newton process and 2.using OpenCV library. First one is implemented using research paper Lucas-Kanade 20 Years On: by simon Baker (Microsoft Computer vision researcher). I have implemented the algorithms given in this paper and used standard libraries for mathematical operation. Then i compared both implementation. Detailed algorithm and comparsion is shown in attached pdf.
-You simply need to run the code and you can also use your system camera for tracking purposes.
+You simply need to run the code and you can also use your system camera for tracking purposes or you can use the sample video attached with it.
